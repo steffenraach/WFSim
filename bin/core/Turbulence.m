@@ -1,4 +1,4 @@
-Turbulencemodel = 'WFSim4';
+Turbulencemodel = 'WFSim1';
 
 % Define spatial varying mixing-length parameter
 if N==1
